@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Anze</h1>
-<h3 align="center">, passionate about technology and dedicated to the tech community. I stand out as a self-driven enthusiast, constantly seeking to expand my knowledge. Through challenging roles, I've honed my teamwork and problem-solving skills in collaborative settings. Comfortable taking the lead when needed, my tech-driven passion fuels my commitment and contributions.</h3>
+<h3 align="center">passionate about technology and dedicated to the tech community. I stand out as a self-driven enthusiast, constantly seeking to expand my knowledge. Through challenging roles, I've honed my teamwork and problem-solving skills in collaborative settings. Comfortable taking the lead when needed, my tech-driven passion fuels my commitment and contributions.</h3>
 
 - Frontend Dev & UI Designer [Arbu](https://arbu.app/aprende)
 
